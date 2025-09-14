@@ -28,3 +28,25 @@ Our experimental results demonstrate that DiffATSM significantly outperforms exi
 ---
 
 ## 📂 Planned Repository Structure
+```
+DiffATSM/
+├── data/              # scripts for dataset preparation
+├── models/            # model definitions (Diffusion, PPG encoder, etc.)
+├── training/          # training scripts and configs
+├── inference/         # inference & evaluation scripts
+└── README.md
+```
+---
+
+## 📦 Dependencies
+- Python >= 3.9  
+- PyTorch >= 2.0  
+- torchaudio, librosa  
+- tqdm, matplotlib, numpy  
+
+A full `requirements.txt` will be provided after release.
+
+---
+
+## 📜 Contact
+For questions, please contact: Sohee Jang (shjang97@hanyang.ac.kr)
