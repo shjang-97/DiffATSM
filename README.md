@@ -49,4 +49,5 @@ A full `requirements.txt` will be provided after release.
 ---
 
 ## 📜 Contact
-For questions, please contact: Sohee Jang (shjang97@hanyang.ac.kr)
+For questions, please contact: 
+- Sohee Jang (shjang97@hanyang.ac.kr)
